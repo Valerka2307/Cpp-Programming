@@ -1,0 +1,3 @@
+/home/valerka/cpp/cpp_course22_Valerij_Kalashnik_2022/bin_search/cmake-build-debug/CMakeFiles/bin_search.dir
+/home/valerka/cpp/cpp_course22_Valerij_Kalashnik_2022/bin_search/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/valerka/cpp/cpp_course22_Valerij_Kalashnik_2022/bin_search/cmake-build-debug/CMakeFiles/rebuild_cache.dir
